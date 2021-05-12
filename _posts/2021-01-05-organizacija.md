@@ -29,9 +29,9 @@ fa-icon: users
 </div>
 
 <center>
-<img src='/img/FBF_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
-<img src='/img/SZ_logo.png' width="40%" style='padding: 5%; min-width: 300px !important'>
-<img src='/img/sveuc_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
+<img src='{{site.url}}/img/FBF_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
+<img src='{{site.url}}/img/SZ_logo.png' width="40%" style='padding: 5%; min-width: 300px !important'>
+<img src='{{site.url}}/img/sveuc_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
 </center>
 
 
