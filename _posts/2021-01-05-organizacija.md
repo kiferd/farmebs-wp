@@ -29,9 +29,9 @@ fa-icon: users
 </div>
 
 <center>
-<img src='https://kiferd.github.io/farmebs-wp/img/FBF_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
-<img src='https://kiferd.github.io/farmebs-wp/img/SZ_logo.png' width="40%" style='padding: 5%; min-width: 300px !important'>
-<img src='https://kiferd.github.io/farmebs-wp/img/sveuc_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
+<img src='/farmebs-wp/img/FBF_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
+<img src='/farmebs-wp/img/SZ_logo.png' width="40%" style='padding: 5%; min-width: 300px !important'>
+<img src='/farmebs-wp/img/sveuc_grb.png' width="25%" style='padding: 5%; min-width: 200px !important'>
 </center>
 
 
