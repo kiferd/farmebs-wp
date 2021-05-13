@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
-    {% include analytics.html %}
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
@@ -16,6 +15,10 @@
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
 </head>
 <body>
+
+  <!-- Cookie consent -->
+  <div> {% include cookie-consent.html %} </div>
+
   <div id="main">
 
     <nav><ul>
@@ -49,7 +52,10 @@
       </div>
     {% endfor %}
 
+    
 
+
+    <!-- Footer -->
     <div id="footer" class="section text-white">
       <div class="container">
         {% capture foottext %} {% include footer.md %} {% endcapture %}
@@ -57,6 +63,7 @@
       </div>
     </div>
   </div>
+ 
 
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

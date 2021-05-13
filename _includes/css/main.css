@@ -120,7 +120,7 @@ nav {
   font-size:15px;
   width:100%;
   position:fixed;
-  z-index:100;
+  z-index:7; /* Was 100 */
   top:0;
   left:0;
   background:#fefefe;
@@ -191,6 +191,9 @@ nav ul li:hover, nav ul li.active {
 }
 #footer .container p { font-size:13px; margin:0; }
 
+
+
+
 /*  - semitransparent circle on the section divider -  */
 .subtlecircle {
   text-align:center;
@@ -259,7 +262,6 @@ nav ul li:hover, nav ul li.active {
 }
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
-
 
 
 

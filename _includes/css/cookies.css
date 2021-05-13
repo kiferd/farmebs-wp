@@ -1,0 +1,54 @@
+/* Cookie consent */
+
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9; /* Specify a stack order in case you're using a different order for other elements */
+  
+  background-color: rgba(0,0,0,0.5); /*dim the background */
+  cursor: pointer; /* Add a pointer on hover */
+
+  display: block;
+}
+
+#modal {
+  width: 60%;
+  position: relative;
+  top: 10%; 
+  left: 20%;
+  background-color: #1f271b;
+  color: #fefefe;
+  border-radius: 0;
+  padding: 30px;
+  z-index: 10;
+}
+
+#cookie-notice a {
+  display: inline-block; 
+  cursor: pointer; 
+}
+.btn-cookie-consent{
+  float: right;
+  text-decoration: none;
+  margin: 0 auto;
+  background-color: #3e7840;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
