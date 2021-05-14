@@ -26,9 +26,9 @@ function eraseCookie(name) {
 }
 
 if(readCookie('cookie-notice-dismissed')=='true') {
+    {% include analytics.js %}
     document.getElementById('overlay').style.display = 'none';
     document.getElementById('modal').style.display = 'none';
-    {% include analytics.js %}
 
 } else {
     document.getElementById('overlay').style.display = 'block';
@@ -37,8 +37,6 @@ if(readCookie('cookie-notice-dismissed')=='true') {
 
 document.getElementById('cookie-notice-accept').addEventListener("click",function() {
     createCookie('cookie-notice-dismissed','true',31);
-    document.getElementById('overlay').style.display = 'none';
-    document.getElementById('modal').style.display = 'none';
     location.reload();
 
 });
