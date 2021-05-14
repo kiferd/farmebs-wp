@@ -17,7 +17,19 @@
 <body>
 
   <!-- Cookie consent -->
-  <div> {% include cookie-consent.html %} </div>
+  <div id='overlay' >
+    <div id='modal'>
+        <span>Prihvaćate li kolačiće (engl. cookies) koje koristi ova mrežna stranica s ciljem praćenja broja posjeta?</span>
+        <br>
+        <a href="/privacy">Detaljnije</a>
+        <br>
+        <a id="cookie-notice-accept" class="btn-cookie-consent">Prihvaćam</a>
+    </div>
+  </div>
+
+  <div> <script> {% include cookie-consent.js %} </script> </div>
+
+
 
   <div id="main">
 
