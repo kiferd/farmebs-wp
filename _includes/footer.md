@@ -1,9 +1,6 @@
 
 Design by Domagoj Kifer and Marko Tijardović
 
-modified [SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-&mdash;
+this site is [open source]({{ site.source_link }}) project 
 hosted on [GitHub](https://github.com/)
 
