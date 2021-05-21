@@ -1,6 +1,6 @@
 
-Design by Domagoj Kifer and Marko Tijardović
+Designed by Domagoj Kifer and Marko Tijardović
 
-this site is [open source]({{ site.source_link }}) project 
-hosted on [GitHub](https://github.com/)
-
+this site is [open source](https://github.com/kiferd/farmebs-wp/) project - 
+hosted on [GitHub](https://github.com/) - 
+[Terms](/terms) of usage

@@ -7,8 +7,8 @@ Created using Jekyll based on [SinglePaged theme](https://github.com/t413/Single
 
 ## Authors
 
-Domagoj Kifer
-Marko Tijardović
+- Domagoj Kifer
+- Marko Tijardović
 
 
 ## Licence
