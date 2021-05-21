@@ -21,7 +21,7 @@ html { box-sizing: border-box; }
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   /* Add separate colour for icon definition */
   {% capture icn %}{% if site.colors[node.icon-color] %}{{ site.colors[node.icon-color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
-  nav .p-{{id}} { border-color: {% if bg == "white" %} fg {% else %} {{ bg }} {% endif %}; }
+  nav .p-{{id}} { border-color: {% if bg == "#fefefe" %} {{ site.colors.grey }} {% else %} {{ bg }} {% endif %}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
   #{{id}} a { color: {{ fg }}; }
   #{{id}} .sectiondivider { color: {{ icn }}; }

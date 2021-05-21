@@ -18,7 +18,7 @@ title:       "Simpozij studenata farmacije i medicinske biokemije (FARMEBS)"
 keywords:    "farmebs, simpozij, farmaceutsko-biokemijski fakultet, fbf, sveuciliste u zagrebu, unizg"
 description: "Symposium website"
 source_link: "https://github.com/kiferd/farmebs-wp"
-url: "https://kiferd.github.io/farmebs-wp"
+url: "https://farmebs.pharma.hr"
 # favicon:     "img/favicon.ico"
 # touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: "UA-196856557-1"
@@ -32,6 +32,7 @@ colors:
   red:          '#bd373d'  # Cardinal
   green:        '#3e7840'  # Fern Green
   purple:       '#533a71'  # Cyber Grapes
+  grey:         '#d7d9d7'  # Light grey
 
 kramdown:
   auto_ids:  false

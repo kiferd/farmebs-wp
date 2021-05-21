@@ -2,13 +2,15 @@
 layout: base
 color: black
 ---
-
-<nav><ul>
-      {% for node in site.posts reversed %}
-        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="p-{{id}}"><a href="{{ site.url }}/#{{id}}">{{node.title}}</a></li>
-      {% endfor %}
-    </ul></nav>
+<!-- Layout for content which is not on the main page -->
+<nav>
+	<ul>
+		{% for node in site.posts reversed %}
+		{% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+		<li class="p-{{id}}"><a href="{{site.url}}/#{{id}}" class = 'external'> {{node.title}}</a></li>
+		{% endfor %}
+	</ul>
+</nav>
 
 
 <div id="home" class="section p-home">
@@ -16,7 +18,8 @@ color: black
 	<div class="container {{ page.style }}">
 		
 		{{ content }}
-		
-		</div>
 	
 	</div>
+
+</div>
+

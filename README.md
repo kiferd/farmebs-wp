@@ -17,6 +17,7 @@ Created using Jekyll based on [SinglePaged theme](https://github.com/t413/Single
 The MIT License (MIT)
 
 Copyright (c) 2014 Tim O'Brien (t413)
+
 Copyright (c) 2021 Domagoj Kifer (kiferd)
 
 

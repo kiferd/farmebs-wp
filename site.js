@@ -32,6 +32,7 @@ $.extend($.easing,
             disableScrollFn = true;
             activateNav(navID);
             populateDestinations(); //recalculate these!
+
         	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
                 settings.scrollSpeed, "easeInOutExpo", function(){
                     disableScrollFn = false;
@@ -72,7 +73,10 @@ $.extend($.easing,
 
 $(document).ready(function (){
 
-    $('nav li a').navScroller();
+    // When not on the main page (class='external'), enable return to the main
+    if (!$('nav li a').hasClass('external')) {
+        $('nav li a').navScroller();
+    };
 
     //section divider icon click gently scrolls to reveal the section
 	$(".sectiondivider").on('click', function(event) {
@@ -92,4 +96,3 @@ $(document).ready(function (){
 	});
 
 });
-
