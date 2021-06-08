@@ -1,3 +1,3 @@
 
-- Davor Šakić, predsjednik
+- Davor Šakić, *predsjednik*
 - ...
