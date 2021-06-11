@@ -1,3 +1,8 @@
-
+- Andrea Hulina Tomašković
+- Marija Kindl
+- Marijan Marijan
+- Mirela Matić
+- Hrvoje Rimac
+- Zora Rukavina
+- Miranda Sertić
 - Davor Šakić, *predsjednik*
-- ...
