@@ -5,10 +5,18 @@ Check [DEMO](https://kiferd.github.io/farmebs-wp)
 Created using Jekyll based on [SinglePaged theme](https://github.com/t413/SinglePaged) created by t413.
 
 
+
 ## Authors
 
 - Domagoj Kifer
 - Marko Tijardović
+
+
+### Other contributors
+
+- Toma Keser
+- Robert Kerep
+- Davor Šakić
 
 
 ## Licence
