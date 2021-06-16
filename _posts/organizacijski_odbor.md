@@ -7,7 +7,7 @@
 - Toma Keser, *predsjednik*
 - Domagoj Kifer, *tajnik*
 - Zvonimir Mlinarić
-- Laura Nižić
+- Laura Nižić Nodilo
 - Kristina Pavić
 - Sofia Shkunnikova
 - Marko Tijardović
