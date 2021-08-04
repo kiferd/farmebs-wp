@@ -6,6 +6,7 @@
 - Robert Kerep
 - Toma Keser, *predsjednik*
 - Domagoj Kifer, *tajnik*
+- Sara Koprivica
 - Zvonimir Mlinarić
 - Laura Nižić Nodilo
 - Kristina Pavić
