@@ -14,7 +14,7 @@ Temeljem članka 7. i članka 13. Opće uredbe za zaštitu podataka:
  {: .text-red}
 
 - **voditelj obrade** – Sveučilište u Zagrebu Farmaceutsko-biokemijski fakultet Ante Kovačića 1, Zagreb (dalje: Fakultet),
-- **predstavnik voditelja obrade** – Marko Tijardović, mag. med. biochem., kontakt: mtijardovic<span >@</span><span>p</span><span>h</span><span>a</span><span>r</span><span>m</span><span>a</span><span >.</span><span>h</span><span>r</span>
+- **predstavnik voditelja obrade** – doc. dr. sc. Davor Šakić, kontakt: dsakic<span >@</span><span>p</span><span>h</span><span>a</span><span>r</span><span>m</span><span>a</span><span >.</span><span>h</span><span>r</span>
 - **službenik za zaštitu osobnih podataka** – Petra Gašparac, dipl. bibl., prof., kontakt: pgasparac<span >@</span><span>p</span><span>h</span><span >a</span><span>r</span><span>m</span><span>a</span><span>.</span ><span>h</span><span>r</span>
 - **svrha obrade osobnih podataka** – informiranje javnosti o 9. Simpoziju studenata farmacije i medicinske biokemije (FARMEBS 2021), tj. vanjska promocija događaja i Farmaceutsko-biokemijskog fakulteta
 - **razdoblje čuvanja/pohrane** – 2 godine od dana objave
@@ -24,4 +24,4 @@ Temeljem članka 7. i članka 13. Opće uredbe za zaštitu podataka:
 - **pružanje osobnih podataka** u gore navedenu svrhu nije zakonska niti ugovorna obveza 
 
 
-**Prijavom na <span style='color:green'>FARMEBS 2021</span> dajem privolu** Sveučilištu u Zagrebu Farmaceutsko-biokemijskom fakultetu za prikupljanje i obradu mojih osobnih podataka u svrhu informiranja javnosti o 9. simpoziju studenata farmacije i medicinske biokemije (FARMEBS 2021), tj. vanjske promocije Farmaceutsko-biokemijskog fakulteta, uključujući objavu podataka i fotografija u stručnim glasilima, na mrežnim stranicama Fakulteta i drugim medijima te na (sljedećem) Fakultetskom vijeću.
+**Prijavom na <span style='color:green'>FARMEBS 2022</span> dajem privolu** Sveučilištu u Zagrebu Farmaceutsko-biokemijskom fakultetu za prikupljanje i obradu mojih osobnih podataka u svrhu informiranja javnosti o 10. simpoziju studenata farmacije i medicinske biokemije (FARMEBS 2022), tj. vanjske promocije Farmaceutsko-biokemijskog fakulteta, uključujući objavu podataka i fotografija u stručnim glasilima, na mrežnim stranicama Fakulteta i drugim medijima te na (sljedećem) Fakultetskom vijeću.

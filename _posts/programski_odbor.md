@@ -1,8 +1,6 @@
 - Andrea Hulina Tomašković
-- Marija Kindl
+- Toma Keser
 - Marijan Marijan
-- Mirela Matić
-- Hrvoje Rimac
+- Danijela Jakšić
+- Kristina Pavić, *predsjednica*
 - Zora Rukavina
-- Miranda Sertić
-- Davor Šakić, *predsjednik*

@@ -1,15 +1,13 @@
-
-- Dora Belec
-- Edvin Brusač
-- Ana Cvetko
+- Nikola Bišćan
 - Andrea Čeri
-- Robert Kerep
-- Toma Keser, *predsjednik*
-- Domagoj Kifer, *tajnik*
-- Sara Koprivica
+- Bisera Jurišić Dukovski, *tajnik*
+- Domagoj Kifer
 - Zvonimir Mlinarić
-- Laura Nižić Nodilo
-- Kristina Pavić
+- Mirna Perkušić
+- Branimir Plavša
+- Hrvoje Rimac
 - Sofia Shkunnikova
-- Marko Tijardović
-
+- Davor Šakić, *predsjednik*
+- Tino Šeba
+- Dinko Šoić
+- Lu Turković
