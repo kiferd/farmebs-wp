@@ -1,6 +1,6 @@
 - Andrea Hulina Tomašković
 - Toma Keser
 - Marijan Marijan
-- Danijela Jakšić
+- Daniela Jakšić
 - Kristina Pavić, *predsjednica*
 - Zora Rukavina
