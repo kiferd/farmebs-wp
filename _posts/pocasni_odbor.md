@@ -1,5 +1,4 @@
-
-- Cvijeta Jakobušić Brala, *prodekanica za studente i studijske programe*
-- Jasmina Lovrić, *dekanica*
-- Ivan Pepić, *prodekan za poslovanje i financije*
-- Zrinka Rajić, *prodekanica za znanost i istraživanje*
+- prof. dr. sc. Zrinka Rajić, *dekanica*
+- izv. prof. dr. sc. Miranda Sertić, *prodekanica za znanost i istraživanje*
+- izv. prof. dr. sc. Sandra Šupraha Goreta, *prodekanica za studente i studijske programe*
+- izv. prof. dr. sc. Maja Ortner Hadžiabdić, *prodekanica za cjeloživotno učenje*

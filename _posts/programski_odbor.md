@@ -1,6 +1,11 @@
+- Andrea Čeri
+- Maja Friščić
+- Hannes Hinneburg, *Fraunhofer Institute for Applied Polymer Research (IAP), Geiselbergstraße 69, 14476 Potsdam, Njemačka*
 - Andrea Hulina Tomašković
-- Toma Keser
-- Marijan Marijan
-- Daniela Jakšić
-- Kristina Pavić, *predsjednica*
-- Zora Rukavina
+- Ana Karković Marković
+- Toma Keser, *predsjednik*
+- Domagoj Kifer
+- Matej Nemčić, *Institute for Glyco-core Research (iGCORE), Gifu University, 1-1 Yanagido, Gifu 501-1193, Japan*
+- Laura Nižić Nodilo
+- Goran Poje
+- Kristina Radić

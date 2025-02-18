@@ -1,13 +1,15 @@
-- Nikola Bišćan
-- Andrea Čeri
-- Bisera Jurišić Dukovski, *tajnik*
-- Domagoj Kifer
-- Zvonimir Mlinarić
+- Dora Belec
+- Valentina Borko
+- Mia Bušljeta
+- Marko Dužević
+- Karla Grudenić
+- Lejsa Jakupović
+- Marina Marinović
+- Zvonimir Mlinarić, *tajnik*
+- Kristina Pavić, *predsjednica*
+- Ana Penava
 - Mirna Perkušić
-- Branimir Plavša
-- Hrvoje Rimac
-- Sofia Shkunnikova
-- Davor Šakić, *predsjednik*
+- Davor Šakić
 - Tino Šeba
-- Dinko Šoić
+- Filip Simić
 - Lu Turković

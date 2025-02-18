@@ -23,6 +23,11 @@ url: "https://farmebs.pharma.hr"
 # touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: "UA-196856557-1"
 
+### Multilingual settings ###
+default_lang: "hr"  # Default language (Croatian)
+languages: ["hr", "en"]  # Supported languages
+lang_dir: ["hr", "en"]  # Keep empty unless you want language directories for each site
+
 
 ### template colors, used site-wide via css ###
 ### https://coolors.co/ was used
