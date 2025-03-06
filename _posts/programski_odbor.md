@@ -5,6 +5,7 @@
 - Ana Karković Marković
 - Toma Keser, *predsjednik*
 - Domagoj Kifer
+- Boris Maryasin, *University of Vienna*
 - Matej Nemčić, *Institute for Glyco-core Research (iGCORE), Gifu University, 1-1 Yanagido, Gifu 501-1193, Japan*
 - Laura Nižić Nodilo
 - Goran Poje
