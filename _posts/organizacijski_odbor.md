@@ -5,11 +5,12 @@
 - Karla Grudenić
 - Lejsa Jakupović
 - Marina Marinović
+- Ema Mlinarić
 - Zvonimir Mlinarić, *tajnik*
 - Kristina Pavić, *predsjednica*
 - Ana Penava
 - Mirna Perkušić
 - Davor Šakić
 - Tino Šeba
-- Filip Simić
+<!-- - Filip Simić -->
 - Lu Turković
