@@ -36,17 +36,17 @@ title: "Poster sekcija"
 |PP24|**Mia Jovanić, Dijana Kolezarić**|Mehanizam reakcija bioloških kateholamina s DPPH radikalom u nepolarnoj reakcijskoj sredini|
 |PP25|**Petra Kašnjar Perković, Lucija Rubinić**|Pobojšanje polifenolnog profila i antioksidacijske aktivnosti ovojnih listova običnog luka|
 |PP26|**Jelena Kovačić**|Advancements in Biosample Preparation: Implementing SPE for the Sustainable Analysis of Ritlecitinib|
-|PP27|**Jelena Kovačić**|Zelena analitička kemija u studijama stabilnosti etrasimoda i ritlecitiniba|
-|PP28|**Ivana Lovrić**|Reakcije pregrađivanja ciklofosfamida i ifosfamida u vodi|
-|PP29|**Lea Malezan**|Računalne metode za predviđanje kiselosti terminalnih alkina|
-|PP30|**Marta Mandić**|Green extraction of volatile terpenes from Artemisia annua L.|
-|PP31|**Marko Matusina**|Pristup određivanju koncentracije i kvalitete slobodne cirkulirajuće DNA izdvojene iz uzoraka krvi pacijenata s kolorektalnim adenomom|
-|PP32|**Kristian Morić-Španić**|Razvoj nove kapilarnoelektroforetske metode za određivanje talazopariba u ljekovitom obliku|
-|PP33|**Helena Orehovački**|Učinkovitost usluge upravljanja farmakoterapijom u deeskalaciji benzodiazepina i Z-lijekova|
-|PP34|**Tamara Ožvald**|Farmaceutske intervencije kod osoba starije životne dobi smještenih u domu za starije|
-|PP35|**Paula Popić**|Metode otkrivanja i kvantifikacije cirkulirajućih tumorskih stanica|
-|PP36|**Matej Pranjić**|Antimikrobno djelovanje 2-hidroksi-1,4-naftokinona i 2-metoksi-1,4-naftokinona na bakterijama vrste Escherichia coli|
-|PP37|**Lana Pribolšan**|Optimizacija i validacija HPLC metode za istovremeno određivanje derivata prednizolona|
+|PP27|**Jelena Kovačić**|Optimizacija i validacija HPLC metode za istovremeno određivanje derivata prednizolona|
+|PP28|**Jelena Kovačić**|Zelena analitička kemija u studijama stabilnosti etrasimoda i ritlecitiniba|
+|PP29|**Ivana Lovrić**|Reakcije pregrađivanja ciklofosfamida i ifosfamida u vodi|
+|PP30|**Lea Malezan**|Računalne metode za predviđanje kiselosti terminalnih alkina|
+|PP31|**Marta Mandić**|Green extraction of volatile terpenes from Artemisia annua L.|
+|PP32|**Marko Matusina**|Pristup određivanju koncentracije i kvalitete slobodne cirkulirajuće DNA izdvojene iz uzoraka krvi pacijenata s kolorektalnim adenomom|
+|PP33|**Kristian Morić-Španić**|Razvoj nove kapilarnoelektroforetske metode za određivanje talazopariba u ljekovitom obliku|
+|PP34|**Helena Orehovački**|Učinkovitost usluge upravljanja farmakoterapijom u deeskalaciji benzodiazepina i Z-lijekova|
+|PP35|**Tamara Ožvald**|Farmaceutske intervencije kod osoba starije životne dobi smještenih u domu za starije|
+|PP36|**Paula Popić**|Metode otkrivanja i kvantifikacije cirkulirajućih tumorskih stanica|
+|PP37|**Matej Pranjić**|Antimikrobno djelovanje 2-hidroksi-1,4-naftokinona i 2-metoksi-1,4-naftokinona na bakterijama vrste Escherichia coli|
 |PP38|**Kristina Radić**|Maximizing bioactive compound extraction yields by response surface optimization of solid-liquid and microwave-assisted extraction from mandarin peels|
 |PP39|**Nika Ramač**|ISPITIVANJE UTJECAJA HEMOLIZE NA BIOKEMIJSKE PARAMETRE OD KLINIČKOG ZNAČAJA U UZORCIMA PLEURALNOG IZLJEVA|
 |PP40|**Tino Šeba**|Impact of Alpha-1-Acid Glycoprotein Sialylation on Dipyridamole Binding Affinity: Implications for Pharmacokinetic Modeling|
