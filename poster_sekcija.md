@@ -15,8 +15,8 @@ title: "Poster sekcija"
 |PP03|**Mihael Bagarić, Karla Brekalo**|Sinteza kimernih molekula za ciljanu razgradnju dvospecifične tirozinskom fosforilacijom regulirane kinaze 1a|
 |PP04|**Petra Bajt**|Ispitivanje antioksidativne i antidijabetske aktivnost dodataka prehrani koji sadrže kurkumu, justiciju, indijski tamjanovac i crni papar|
 |PP05|**Petra Bajt**|Određivanje sadržaja vode u dodacima prehrani crvenog brijesta primjenom Karl Fischer titracije nakon ekstrakcije|
-|PP06|**Monika Barbarić**|Interakcije duhanskog dima s lijekovima - farmakokinetički i farmakodinamički izazovi|
-|PP07|**Monika Barbarić**|Metabolizam lijekova pod utjecajem alkohola - pregled klinički relevantnih interakcija|
+|PP06|**Nikolina Radan**|Interakcije duhanskog dima s lijekovima - farmakokinetički i farmakodinamički izazovi|
+|PP07|**Nikolina Radan**|Metabolizam lijekova pod utjecajem alkohola - pregled klinički relevantnih interakcija|
 |PP08|**Lucija Ana Bićanić**|Identifikacija terapijskih problema i analiza učinka ljekarničkih intervencija na arterijski tlak u Domu za starije osobe Centar|
 |PP09|**Lucija Bilandžija**|Synthesis of harmisinins - β-carboline and artemisinin triazole hybrids tackling malaria and cancer|
 |PP10|**Ivana Bilkić**|Utvrđivanje mutacije JAK2 V617F u uzorcima slobodne cirkulirajuće DNA u pacijenata s kolorektalnim karcinomom metodom digitalne lančane reakcije polimerazom|
