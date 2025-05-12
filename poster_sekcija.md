@@ -20,7 +20,7 @@ title: "Poster sekcija"
 |PP08|**Lucija Ana Bićanić**|Identifikacija terapijskih problema i analiza učinka ljekarničkih intervencija na arterijski tlak u Domu za starije osobe Centar|
 |PP09|**Lucija Bilandžija**|Synthesis of harmisinins - β-carboline and artemisinin triazole hybrids tackling malaria and cancer|
 |PP10|**Ivana Bilkić**|Utvrđivanje mutacije JAK2 V617F u uzorcima slobodne cirkulirajuće DNA u pacijenata s kolorektalnim karcinomom metodom digitalne lančane reakcije polimerazom|
-|PP11|**Valerija Vujčić Bok**|Utjecaj bisfenola S (BPS) na masu korjenčića luka (Allium cepa L.) i učestalost jezgrinih promjena|
+|PP11|**Domagoj Bosiljevac**|Utjecaj bisfenola S (BPS) na masu korjenčića luka (Allium cepa L.) i učestalost jezgrinih promjena|
 |PP12|**Nika Celinić, Sanja Gagić**|Antioksidacijski, antiglikacijski i polifenolni profil vodenih ekstrakta prave kamilice i pasje ruže|
 |PP13|**Mateo Celinić**|Assessment of the toxicity of paracetamol and plastic nanoparticle mixtures in 2D and 3D HepG2 liver models|
 |PP14|**Borna Cesarec**|Tropski plodovi i kućanski odvodi: neočekivani putevi širenja fuzarioza|
